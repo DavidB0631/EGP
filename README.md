@@ -98,6 +98,15 @@
 <channel id="3BA40002.B1A101A41348FD67.003C">
 <display-name lang="en">TNT Sport 2</display-name>
 </channel>
+<channel id="3BA40002.0A34F56042280D14.0798">
+<display-name lang="en">Fox Sports 1</display-name>
+</channel>
+<channel id="3BA40002.A90ACE5D8FE3E135.01B1">
+<display-name lang="en">Fox Sports 2</display-name>
+</channel>
+<channel id="3BA40002.4EBDE3DBFAA6B19E.01C8">
+<display-name lang="en">Fox Sports 3</display-name>
+</channel>
 <channel id="3BA40002.E892FF87E3383FD3.0041">
 <display-name lang="en">Tyc Sports</display-name>
 </channel>
@@ -24374,6 +24383,12 @@ Disfrute de un encuentro entre los equipos masculinos por el campeonato panameri
 Episodio: Temp. 2022. Copa Panamericana de Hockey: Ganador #13 vs. Ganador #14 - Femenino.
 Disfrute de un encuentro entre los equipos femeninos por el campeonato panamericano de hockey sobre césped.</desc>
 </programme>
+<programme channel="3BA40002.65B07A5E05D37812.0361" start="20220131061500 -0500" stop="20220131090000 -0500">
+<title lang="es">Hockey sobre césped</title>
+<desc lang="es">Temporada: 2022. Copa Panamericana de Hockey: Perdedor #17 vs. Perdedor #18 - Masculino. Tit. Original: Hockey sobre césped. Hockey sobre cesped.
+Episodio: Temp. 2022. Copa Panamericana de Hockey: Perdedor #17 vs. Perdedor #18 - Masculino.
+Disfrute de un encuentro entre los equipos masculinos por el campeonato panamericano de hockey sobre césped.</desc>
+</programme>
 <programme channel="3BA40002.B1A101A41348FD67.003C" start="20220131021500 -0500" stop="20220131041500 -0500">
 <title lang="es">Hockey sobre césped</title>
 <desc lang="es">Copa Panamericana de Hockey sobre césped masculino Ganador #17 vs. Ganador #18. Copa Panamericana de Hockey sobre césped masculino Ganador #17 vs. Ganador #18 T0-E01302022
@@ -24448,6 +24463,950 @@ Y encuentra el resumen con la información de los equipos, los jugadores y los g
 <title lang="es">Deporte: Será Anunciado</title>
 <desc lang="es">Transmisión deportiva.
 Encuentra en este espacio toda la programación deportiva más importante del momento; referente a partidos de futbol, vóleibol, basquetbol, entre otros. Así mismo, disfruta de los análisis deportivos, entrevistas y noticias deportivas actuales.Ramiro Pantorotto,Fernando Carlos/2021/ARG</desc>
+</programme>
+<programme channel="3BA40002.0A34F56042280D14.0798" start="20220131040000 -0500" stop="20220131050000 -0500">
+<title lang="es">Campeones</title>
+<desc lang="es">Temporada: 2015. River Plate - Copa Libertadores. Tit. Original: Campeones. Fútbol.
+Episodio: Temp. 2015. River Plate - Copa Libertadores.
+Disfrute de un especial con los mejores y más recordados momentos de las campañas que consagraron a clubes sudamericanos en torneos nacionales e internacionales.</desc>
+</programme>
+<programme channel="3BA40002.0A34F56042280D14.0798" start="20220131050000 -0500" stop="20220131070000 -0500">
+<title lang="es">UFC Clásicos</title>
+<desc lang="es">Tit. Original: UFC Clásicos. Deportes. Dir: Chris Kartzmark. Con Chris Kartzmark.
+Director: Chris Kartzmark, Anthony Giordano.
+Productor: Chris Kartzmark.
+Programa que presenta grandes peleas, las cuales ya se han convertido en todo un clásico de la UFC, en donde además, reconocidos luchadores buscan alcanzar la gloria.</desc>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220131040000 -0500" stop="20220131050000 -0500">
+<title lang="es">UFC Clásicos</title>
+<desc lang="es">Espacio centrado en los combates más destacados de la acción de las artes marciales mixtas del
+UFC.1993/USA</desc>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220131050000 -0500" stop="20220131070000 -0500">
+<title lang="es">WWE Smackdown</title>
+<desc lang="es">Programa de entretenimiento deportivo de la lucha libre profesional, las mejores luchas serán
+transmitidas y el mundo de la lucha libre será el protagonista de todos los segmentos, especialmente enfocados en los luchadores más destacados de la actualidad.USA</desc>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220131070000 -0500" stop="20220131080000 -0500">
+<title lang="es">Expediente Fútbol</title>
+<desc lang="es">Las historias de varios clubes de fútbol y sus jugadores estrellas.
+2003/ARG</desc>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220131080000 -0500" stop="20220131100000 -0500">
+<title lang="es">Fútbol: Conmebol Libertadores</title>
+<desc lang="es">Unión Española vs. Independiente del Valle desde Estadio Santa Laura, Santiago, Chile. Unión Española vs. Independiente del Valle T0-E03092021
+2021/ARG</desc>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220131100000 -0500" stop="20220131130000 -0500">
+<title lang="es">WWE Raw</title>
+<desc lang="es">Adrenalina y acción con las estrellas de la lucha libre del mundo WWE
+(World Wrestling Entertainment), es el programa de WWE con más emisiones de forma ininterrumpida de la historia. A lo largo de los años el programa ha realizado capítulos especiales con distintas temáticas, tales como el WWE Draft, la presentación de los Slammy Awards, o el tributo a luchadores que han fallecido o se han retirado.USA</desc>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220131130000 -0500" stop="20220131140000 -0500">
+<title lang="es">San Lorenzo Campeón Copa Libertadores 2014</title>
+<desc lang="es">Una mirada a los campeones de Copa Libertadores 2016.
+2014/USA</desc>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220131140000 -0500" stop="20220131150000 -0500">
+<title lang="es">Expediente Fútbol</title>
+<desc lang="es">Las historias de varios clubes de fútbol y sus jugadores estrellas.
+2003/ARG</desc>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220131150000 -0500" stop="20220131170000 -0500">
+<title lang="es">Fútbol: Conmebol Libertadores</title>
+<desc lang="es">Universidad Católica vs. Libertad. Universidad Católica vs. Libertad T0-E03102021
+2021/ARG</desc>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220131170000 -0500" stop="20220131180000 -0500">
+<title lang="es">WWE Raw Highlights</title>
+<desc lang="es">Lo más destacado de el Monday Night Raw de la WWE.
+Este programa especializado te mantendrá informado sobre las más recientes luchas de la WWE, de la mano de un análisis detallado de los sucesos ocurridos en la arena de combate de la lucha libre profesional.USA</desc>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220131180000 -0500" stop="20220131190000 -0500">
+<title lang="es">Expediente Fútbol</title>
+<desc lang="es">Las historias de varios clubes de fútbol y sus jugadores estrellas.
+2003/ARG</desc>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220131190000 -0500" stop="20220131210000 -0500">
+<title lang="es">Fórmula 1</title>
+<desc lang="es">2018</desc>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220131210000 -0500" stop="20220131220000 -0500">
+<title lang="es">San Lorenzo Campeón Copa Libertadores 2014</title>
+<desc lang="es">Una mirada a los campeones de Copa Libertadores 2016.
+2014/USA</desc>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220131220000 -0500" stop="20220131230000 -0500">
+<title lang="es">UEFA Champions Classic</title>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220131230000 -0500" stop="20220201000000 -0500">
+<title lang="es">UFC Main Event</title>
+<desc lang="es">Pelea principal de la noche, en la que se miden los contrincantes más aguerridos y temidos de UFC
+ una enorme lucha en la que solo habrá un vencedor.2017/USA</desc>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220201000000 -0500" stop="20220201010000 -0500">
+<title lang="es">WWE Raw Highlights</title>
+<desc lang="es">Lo más destacado de el Monday Night Raw de la WWE.
+Este programa especializado te mantendrá informado sobre las más recientes luchas de la WWE, de la mano de un análisis detallado de los sucesos ocurridos en la arena de combate de la lucha libre profesional.USA</desc>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220201010000 -0500" stop="20220201040000 -0500">
+<title lang="es">WWE Raw</title>
+<desc lang="es">Adrenalina y acción con las estrellas de la lucha libre del mundo WWE
+(World Wrestling Entertainment), es el programa de WWE con más emisiones de forma ininterrumpida de la historia. A lo largo de los años el programa ha realizado capítulos especiales con distintas temáticas, tales como el WWE Draft, la presentación de los Slammy Awards, o el tributo a luchadores que han fallecido o se han retirado.USA</desc>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220201040000 -0500" stop="20220201060000 -0500">
+<title lang="es">Fórmula 1</title>
+<desc lang="es">2018</desc>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220201060000 -0500" stop="20220201070000 -0500">
+<title lang="es">UFC Clásicos</title>
+<desc lang="es">Espacio centrado en los combates más destacados de la acción de las artes marciales mixtas del
+UFC.1993/USA</desc>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220201070000 -0500" stop="20220201080000 -0500">
+<title lang="es">San Lorenzo Campeón Copa Libertadores 2014</title>
+<desc lang="es">Una mirada a los campeones de Copa Libertadores 2016.
+2014/USA</desc>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220201080000 -0500" stop="20220201090000 -0500">
+<title lang="es">Expediente Fútbol</title>
+<desc lang="es">Las historias de varios clubes de fútbol y sus jugadores estrellas.
+2003/ARG</desc>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220201090000 -0500" stop="20220201100000 -0500">
+<title lang="es">UEFA Champions Classic</title>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220201100000 -0500" stop="20220201120000 -0500">
+<title lang="es">Fórmula 1</title>
+<desc lang="es">2018</desc>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220201120000 -0500" stop="20220201130000 -0500">
+<title lang="es">UEFA Champions Classic</title>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220201130000 -0500" stop="20220201140000 -0500">
+<title lang="es">Copa Libertadores: River Plate Campeón 2015</title>
+<desc lang="es">Programa centrado en el River Plate, campeón de la Copa Libertadores 2015.
+USA</desc>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220201140000 -0500" stop="20220201150000 -0500">
+<title lang="es">Expediente Fútbol</title>
+<desc lang="es">Las historias de varios clubes de fútbol y sus jugadores estrellas.
+2003/ARG</desc>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220201150000 -0500" stop="20220201170000 -0500">
+<title lang="es">Fútbol: Conmebol Libertadores</title>
+<desc lang="es">Santos vs. Deportivo Lara desde Estadio Urbano Caldeira, Santos, Brasil. Santos vs. Deportivo Lara T0-E03092021
+2021/ARG</desc>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220201170000 -0500" stop="20220201180000 -0500">
+<title lang="es">UFC Clásicos</title>
+<desc lang="es">Espacio centrado en los combates más destacados de la acción de las artes marciales mixtas del
+UFC.1993/USA</desc>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220201180000 -0500" stop="20220201190000 -0500">
+<title lang="es">Expediente Fútbol</title>
+<desc lang="es">Las historias de varios clubes de fútbol y sus jugadores estrellas.
+2003/ARG</desc>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220201190000 -0500" stop="20220201210000 -0500">
+<title lang="es">Fórmula 1</title>
+<desc lang="es">Gran Premio de Canadá Gran Premio de Canadá T0-E01012021
+2018</desc>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220201210000 -0500" stop="20220201220000 -0500">
+<title lang="es">Copa Libertadores: River Plate Campeón 2015</title>
+<desc lang="es">Programa centrado en el River Plate, campeón de la Copa Libertadores 2015.
+USA</desc>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220201220000 -0500" stop="20220201230000 -0500">
+<title lang="es">UEFA Champions Classic</title>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220201230000 -0500" stop="20220202000000 -0500">
+<title lang="es">WWE Vintage</title>
+<desc lang="es">Visión clásica del Smackdown
+ en donde se recorrerá los más clásicos enfrentamientos de la WWE, con un formato casi nostálgico que te hará recordar los grandes momentos de la disciplina, con el mayor nivel de detalle posible y con la narracción especializada de los expertos.USA</desc>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220202000000 -0500" stop="20220202010000 -0500">
+<title lang="es">Expediente Fútbol</title>
+<desc lang="es">Las historias de varios clubes de fútbol y sus jugadores estrellas.
+2003/ARG</desc>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220202010000 -0500" stop="20220202030000 -0500">
+<title lang="es">Fútbol: Conmebol Libertadores</title>
+<desc lang="es">Santos vs. Deportivo Lara desde Estadio Urbano Caldeira, Santos, Brasil. Santos vs. Deportivo Lara T0-E03092021
+2021/ARG</desc>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220202030000 -0500" stop="20220202040000 -0500">
+<title lang="es">UFC Clásicos</title>
+<desc lang="es">Espacio centrado en los combates más destacados de la acción de las artes marciales mixtas del
+UFC.1993/USA</desc>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220202040000 -0500" stop="20220202060000 -0500">
+<title lang="es">Fórmula 1</title>
+<desc lang="es">Gran Premio de Canadá Gran Premio de Canadá T0-E01012021
+2018</desc>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220202060000 -0500" stop="20220202070000 -0500">
+<title lang="es">UFC Clásicos</title>
+<desc lang="es">Espacio centrado en los combates más destacados de la acción de las artes marciales mixtas del
+UFC.1993/USA</desc>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220202070000 -0500" stop="20220202080000 -0500">
+<title lang="es">Copa Libertadores: River Plate Campeón 2015</title>
+<desc lang="es">Programa centrado en el River Plate, campeón de la Copa Libertadores 2015.
+USA</desc>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220202080000 -0500" stop="20220202090000 -0500">
+<title lang="es">Expediente Fútbol</title>
+<desc lang="es">Las historias de varios clubes de fútbol y sus jugadores estrellas.
+2003/ARG</desc>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220202090000 -0500" stop="20220202100000 -0500">
+<title lang="es">UEFA Champions Classic</title>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220202100000 -0500" stop="20220202120000 -0500">
+<title lang="es">Fórmula 1</title>
+<desc lang="es">Gran Premio de Canadá Gran Premio de Canadá T0-E01012021
+2018</desc>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220202120000 -0500" stop="20220202130000 -0500">
+<title lang="es">UEFA Champions Classic</title>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220202130000 -0500" stop="20220202140000 -0500">
+<title lang="es">U. De Chile Campeón Sudamericana 2011</title>
+<desc lang="es">2011</desc>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220202140000 -0500" stop="20220202150000 -0500">
+<title lang="es">Expediente Fútbol</title>
+<desc lang="es">Las historias de varios clubes de fútbol y sus jugadores estrellas.
+2003/ARG</desc>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220202150000 -0500" stop="20220202170000 -0500">
+<title lang="es">Fútbol: Conmebol Libertadores</title>
+<desc lang="es">Independiente del Valle vs. Unión Española desde Estadio de Liga Deportiva Universitaria, Quito Independiente del Valle vs. Unión Española T0-E03162021
+ Ecuador.2021/ARG</desc>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220202170000 -0500" stop="20220202180000 -0500">
+<title lang="es">WWE Vintage</title>
+<desc lang="es">Visión clásica del Smackdown
+ en donde se recorrerá los más clásicos enfrentamientos de la WWE, con un formato casi nostálgico que te hará recordar los grandes momentos de la disciplina, con el mayor nivel de detalle posible y con la narracción especializada de los expertos.USA</desc>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220202180000 -0500" stop="20220202190000 -0500">
+<title lang="es">Expediente Fútbol</title>
+<desc lang="es">Las historias de varios clubes de fútbol y sus jugadores estrellas.
+2003/ARG</desc>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220202190000 -0500" stop="20220202210000 -0500">
+<title lang="es">Fórmula 1</title>
+<desc lang="es">Carrera de Gran Premio de Francia desde el Circuito Paul Ricard, Le Castellet, Francia. Gran Premio de Francia T0-E06202021
+Juan Marcio Fazzini,Fernando Tornello/2021/USA</desc>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220202210000 -0500" stop="20220202220000 -0500">
+<title lang="es">U. De Chile Campeón Sudamericana 2011</title>
+<desc lang="es">2011</desc>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220202220000 -0500" stop="20220202230000 -0500">
+<title lang="es">UEFA Champions Classic</title>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220202230000 -0500" stop="20220203000000 -0500">
+<title lang="es">WWE NXT</title>
+<desc lang="es">En este programa debutan nuevos talentos y se dan a conocer las nuevas estrellas de la WWE
+ provenientes de la Florida Championship Wrestling (FCW), llamados rookies o novatos, para debutar, un luchador profesional o Pro les ayuda a destacar en el difícil camino a la fama.USA</desc>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220203000000 -0500" stop="20220203010000 -0500">
+<title lang="es">Expediente Fútbol</title>
+<desc lang="es">Las historias de varios clubes de fútbol y sus jugadores estrellas.
+2003/ARG</desc>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220203010000 -0500" stop="20220203030000 -0500">
+<title lang="es">Fútbol: Conmebol Libertadores</title>
+<desc lang="es">Independiente del Valle vs. Unión Española desde Estadio de Liga Deportiva Universitaria, Quito Independiente del Valle vs. Unión Española T0-E03162021
+ Ecuador.2021/ARG</desc>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220203030000 -0500" stop="20220203040000 -0500">
+<title lang="es">UFC Clásicos</title>
+<desc lang="es">Espacio centrado en los combates más destacados de la acción de las artes marciales mixtas del
+UFC.1993/USA</desc>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220203040000 -0500" stop="20220203060000 -0500">
+<title lang="es">Fórmula 1</title>
+<desc lang="es">Carrera de Gran Premio de Francia desde el Circuito Paul Ricard, Le Castellet, Francia. Gran Premio de Francia T0-E06202021
+Juan Marcio Fazzini,Fernando Tornello/2021/USA</desc>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220203060000 -0500" stop="20220203070000 -0500">
+<title lang="es">UFC Clásicos</title>
+<desc lang="es">Espacio centrado en los combates más destacados de la acción de las artes marciales mixtas del
+UFC.1993/USA</desc>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220203070000 -0500" stop="20220203080000 -0500">
+<title lang="es">U. De Chile Campeón Sudamericana 2011</title>
+<desc lang="es">2011</desc>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220203080000 -0500" stop="20220203090000 -0500">
+<title lang="es">Expediente Fútbol</title>
+<desc lang="es">Las historias de varios clubes de fútbol y sus jugadores estrellas.
+2003/ARG</desc>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220203090000 -0500" stop="20220203100000 -0500">
+<title lang="es">UEFA Champions Classic</title>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220203100000 -0500" stop="20220203120000 -0500">
+<title lang="es">Fórmula 1</title>
+<desc lang="es">Carrera de Gran Premio de Francia desde el Circuito Paul Ricard, Le Castellet, Francia. Gran Premio de Francia T0-E06202021
+Juan Marcio Fazzini,Fernando Tornello/2021/USA</desc>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220203120000 -0500" stop="20220203130000 -0500">
+<title lang="es">UEFA Champions Classic</title>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220203130000 -0500" stop="20220203140000 -0500">
+<title lang="es">River campeón Torneo Final 2014</title>
+<desc lang="es">River Plate se coronó como el mejor del Torneo Final 2014 en Argentina sacando cinco puntos de
+ventaja sobre sus perseguidores.2014/ARG</desc>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220203140000 -0500" stop="20220203150000 -0500">
+<title lang="es">Expediente Fútbol</title>
+<desc lang="es">Las historias de varios clubes de fútbol y sus jugadores estrellas.
+2003/ARG</desc>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220203150000 -0500" stop="20220203170000 -0500">
+<title lang="es">Fútbol: Conmebol Libertadores</title>
+<desc lang="es">San Lorenzo vs. Universidad de Chile desde Estadio Pedro Bidegain, Buenos Aires, Argentina. San Lorenzo vs. Universidad de Chile T0-E03172021
+2021/ARG</desc>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220203170000 -0500" stop="20220203180000 -0500">
+<title lang="es">WWE NXT</title>
+<desc lang="es">En este programa debutan nuevos talentos y se dan a conocer las nuevas estrellas de la WWE
+ provenientes de la Florida Championship Wrestling (FCW), llamados rookies o novatos, para debutar, un luchador profesional o Pro les ayuda a destacar en el difícil camino a la fama.USA</desc>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220203180000 -0500" stop="20220203190000 -0500">
+<title lang="es">Expediente Fútbol</title>
+<desc lang="es">Las historias de varios clubes de fútbol y sus jugadores estrellas.
+2003/ARG</desc>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220203190000 -0500" stop="20220203210000 -0500">
+<title lang="es">Fórmula 1</title>
+<desc lang="es">Gran Premio de Austria.  Gran Premio de Austria T0-E06302019
+Juan Marcio Fazzini,Fernando Tornello/2019/AUT</desc>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220203210000 -0500" stop="20220203220000 -0500">
+<title lang="es">River campeón Torneo Final 2014</title>
+<desc lang="es">River Plate se coronó como el mejor del Torneo Final 2014 en Argentina sacando cinco puntos de
+ventaja sobre sus perseguidores.2014/ARG</desc>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220203220000 -0500" stop="20220203230000 -0500">
+<title lang="es">UEFA Champions Classic</title>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220203230000 -0500" stop="20220204000000 -0500">
+<title lang="es">WWE Main Event</title>
+<desc lang="es">Programa de televisión de lucha libre profesional, cuenta con las superestrellas de WWE y Divas.
+Se realizan combates interpromocionales de las marcas Raw y Smackdown, además del evento principal un evento lleno de adrenalina y emoción.USA</desc>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220204000000 -0500" stop="20220204010000 -0500">
+<title lang="es">Expediente Fútbol</title>
+<desc lang="es">Las historias de varios clubes de fútbol y sus jugadores estrellas.
+2003/ARG</desc>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220204010000 -0500" stop="20220204030000 -0500">
+<title lang="es">Fútbol: Conmebol Libertadores</title>
+<desc lang="es">San Lorenzo vs. Universidad de Chile desde Estadio Pedro Bidegain, Buenos Aires, Argentina. San Lorenzo vs. Universidad de Chile T0-E03172021
+2021/ARG</desc>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220204030000 -0500" stop="20220204040000 -0500">
+<title lang="es">UFC Clásicos</title>
+<desc lang="es">Espacio centrado en los combates más destacados de la acción de las artes marciales mixtas del
+UFC.1993/USA</desc>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220204040000 -0500" stop="20220204060000 -0500">
+<title lang="es">Fórmula 1</title>
+<desc lang="es">Gran Premio de Austria.  Gran Premio de Austria T0-E06302019
+Juan Marcio Fazzini,Fernando Tornello/2019/AUT</desc>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220204060000 -0500" stop="20220204070000 -0500">
+<title lang="es">UFC Clásicos</title>
+<desc lang="es">Espacio centrado en los combates más destacados de la acción de las artes marciales mixtas del
+UFC.1993/USA</desc>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220204070000 -0500" stop="20220204080000 -0500">
+<title lang="es">River campeón Torneo Final 2014</title>
+<desc lang="es">River Plate se coronó como el mejor del Torneo Final 2014 en Argentina sacando cinco puntos de
+ventaja sobre sus perseguidores.2014/ARG</desc>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220204080000 -0500" stop="20220204090000 -0500">
+<title lang="es">Expediente Fútbol</title>
+<desc lang="es">Las historias de varios clubes de fútbol y sus jugadores estrellas.
+2003/ARG</desc>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220204090000 -0500" stop="20220204100000 -0500">
+<title lang="es">UEFA Champions Classic</title>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220204100000 -0500" stop="20220204130000 -0500">
+<title lang="es">WWE Raw</title>
+<desc lang="es">Adrenalina y acción con las estrellas de la lucha libre del mundo WWE
+(World Wrestling Entertainment), es el programa de WWE con más emisiones de forma ininterrumpida de la historia. A lo largo de los años el programa ha realizado capítulos especiales con distintas temáticas, tales como el WWE Draft, la presentación de los Slammy Awards, o el tributo a luchadores que han fallecido o se han retirado.USA</desc>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220204130000 -0500" stop="20220204140000 -0500">
+<title lang="es">Boca campeón Clausura 2006</title>
+<desc lang="es">Especial del torneo Clausura 2006 en el que Boca Juniors se proclamó campeón.
+2006/ARG</desc>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220204140000 -0500" stop="20220204150000 -0500">
+<title lang="es">Expediente Fútbol</title>
+<desc lang="es">Las historias de varios clubes de fútbol y sus jugadores estrellas.
+2003/ARG</desc>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220204150000 -0500" stop="20220204170000 -0500">
+<title lang="es">Fútbol: Conmebol Libertadores</title>
+<desc lang="es">Atlético Nacional vs. Guaraní desde Estadio Atanasio Girardot, Medellín, Colombia. Atlético Nacional vs. Guaraní T0-E03182021
+2021/ARG</desc>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220204170000 -0500" stop="20220204180000 -0500">
+<title lang="es">WWE Main Event</title>
+<desc lang="es">Programa de televisión de lucha libre profesional, cuenta con las superestrellas de WWE y Divas.
+Se realizan combates interpromocionales de las marcas Raw y Smackdown, además del evento principal un evento lleno de adrenalina y emoción.USA</desc>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220204180000 -0500" stop="20220204190000 -0500">
+<title lang="es">Expediente Fútbol</title>
+<desc lang="es">Las historias de varios clubes de fútbol y sus jugadores estrellas.
+2003/ARG</desc>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220204190000 -0500" stop="20220204210000 -0500">
+<title lang="es">Fórmula 1</title>
+<desc lang="es">Gran Premio de Gran Bretaña. GP de Gran Bretaña T0-E08022020
+Juan Marcio Fazzini,Fernando Tornello/2020</desc>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220204210000 -0500" stop="20220204220000 -0500">
+<title lang="es">Boca campeón Clausura 2006</title>
+<desc lang="es">Especial del torneo Clausura 2006 en el que Boca Juniors se proclamó campeón.
+2006/ARG</desc>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220204220000 -0500" stop="20220204230000 -0500">
+<title lang="es">UEFA Champions Classic</title>
+</programme>
+<programme channel="3BA40002.A90ACE5D8FE3E135.01B1" start="20220204230000 -0500" stop="20220205000000 -0500">
+<title lang="es">WWE Raw Highlights</title>
+<desc lang="es">Lo más destacado de el Monday Night Raw de la WWE.
+Este programa especializado te mantendrá informado sobre las más recientes luchas de la WWE, de la mano de un análisis detallado de los sucesos ocurridos en la arena de combate de la lucha libre profesional.USA</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220131040000 -0500" stop="20220131050000 -0500">
+<title lang="es">Fórmula 2 - Season Review</title>
+<desc lang="es">Un repaso por la temporada 2021 de la Fórmula 3.
+2021</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220131050000 -0500" stop="20220131060000 -0500">
+<title lang="es">Fórmula 2 - Season Review</title>
+<desc lang="es">Un repaso por la temporada 2021 de la Fórmula 3.
+2021</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220131060000 -0500" stop="20220131070000 -0500">
+<title lang="es">Extreme E Season Review</title>
+<desc lang="es">Un repaso por la competición de automóviles todoterreno eléctricos.
+2022</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220131070000 -0500" stop="20220131100000 -0500">
+<title lang="es">Automovilismo</title>
+<desc lang="es">Segunda parte de 12 Horas de Sebring desde Sebring International Raceway, Florida, Estados Unidos. 12 Horas de Sebring T0-E03202021
+2021/USA</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220131100000 -0500" stop="20220131110000 -0500">
+<title lang="es">Fórmula 2</title>
+<desc lang="es">Sakhir, carrera 3 Sakhir T0-E0
+2017</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220131110000 -0500" stop="20220131120000 -0500">
+<title lang="es">Fórmula 2</title>
+<desc lang="es">Sakhir, carrera 3 Sakhir T0-E0
+2017</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220131120000 -0500" stop="20220131130000 -0500">
+<title lang="es">Fórmula 2</title>
+<desc lang="es">Sakhir, carrera 3 Sakhir T0-E0
+2017</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220131130000 -0500" stop="20220131140000 -0500">
+<title lang="es">Extreme E Season Review</title>
+<desc lang="es">Un repaso por la competición de automóviles todoterreno eléctricos.
+2022</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220131140000 -0500" stop="20220131150000 -0500">
+<title lang="es">Fórmula 3</title>
+<desc lang="es">Barcelona Barcelona T0-E05132018
+2019/USA</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220131150000 -0500" stop="20220131160000 -0500">
+<title lang="es">Fórmula 3</title>
+<desc lang="es">Barcelona Barcelona T0-E05132018
+2019/USA</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220131160000 -0500" stop="20220131170000 -0500">
+<title lang="es">Fórmula 3</title>
+<desc lang="es">Barcelona - Carrera 3 Barcelona - Carrera 3 T0-E0
+2019/USA</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220131170000 -0500" stop="20220131180000 -0500">
+<title lang="es">FIM Motocross Season Review</title>
+<desc lang="es">El campeonato mundial FIM de Motocross representa la carrera todo terreno más dinámica y exigente
+del planeta. El desafío por la corona mundial de Motocross exige un alto nivel de control, y en este espacio te mostramos cada detalle.2018</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220131180000 -0500" stop="20220131190000 -0500">
+<title lang="es">Fórmula 2</title>
+<desc lang="es">Sakhir, carrera 3 Sakhir T0-E0
+2017</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220131190000 -0500" stop="20220131200000 -0500">
+<title lang="es">Fórmula 2</title>
+<desc lang="es">Sakhir, carrera 3 Sakhir T0-E0
+2017</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220131200000 -0500" stop="20220131210000 -0500">
+<title lang="es">Fórmula 2</title>
+<desc lang="es">Sakhir, carrera 3 Sakhir T0-E0
+2017</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220131210000 -0500" stop="20220131220000 -0500">
+<title lang="es">Extreme E Season Review</title>
+<desc lang="es">Un repaso por la competición de automóviles todoterreno eléctricos.
+2022</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220131220000 -0500" stop="20220131230000 -0500">
+<title lang="es">Fórmula 3</title>
+<desc lang="es">Barcelona Barcelona T0-E05132018
+2019/USA</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220131230000 -0500" stop="20220201000000 -0500">
+<title lang="es">Fórmula 3</title>
+<desc lang="es">Barcelona Barcelona T0-E05132018
+2019/USA</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220201000000 -0500" stop="20220201010000 -0500">
+<title lang="es">Fórmula 3</title>
+<desc lang="es">Barcelona - Carrera 3 Barcelona - Carrera 3 T0-E0
+2019/USA</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220201010000 -0500" stop="20220201020000 -0500">
+<title lang="es">FIM Motocross Season Review</title>
+<desc lang="es">El campeonato mundial FIM de Motocross representa la carrera todo terreno más dinámica y exigente
+del planeta. El desafío por la corona mundial de Motocross exige un alto nivel de control, y en este espacio te mostramos cada detalle.2018</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220201020000 -0500" stop="20220201030000 -0500">
+<title lang="es">Fórmula 2</title>
+<desc lang="es">Sakhir, carrera 3 Sakhir T0-E0
+2017</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220201030000 -0500" stop="20220201040000 -0500">
+<title lang="es">Fórmula 2</title>
+<desc lang="es">Sakhir, carrera 3 Sakhir T0-E0
+2017</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220201040000 -0500" stop="20220201050000 -0500">
+<title lang="es">Fórmula 2</title>
+<desc lang="es">Sakhir, carrera 3 Sakhir T0-E0
+2017</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220201050000 -0500" stop="20220201060000 -0500">
+<title lang="es">Extreme E Season Review</title>
+<desc lang="es">Un repaso por la competición de automóviles todoterreno eléctricos.
+2022</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220201060000 -0500" stop="20220201070000 -0500">
+<title lang="es">Fórmula 3</title>
+<desc lang="es">Barcelona Barcelona T0-E05132018
+2019/USA</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220201070000 -0500" stop="20220201080000 -0500">
+<title lang="es">Fórmula 3</title>
+<desc lang="es">Barcelona Barcelona T0-E05132018
+2019/USA</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220201080000 -0500" stop="20220201090000 -0500">
+<title lang="es">Fórmula 3</title>
+<desc lang="es">Barcelona - Carrera 3 Barcelona - Carrera 3 T0-E0
+2019/USA</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220201090000 -0500" stop="20220201100000 -0500">
+<title lang="es">FIM Motocross Season Review</title>
+<desc lang="es">El campeonato mundial FIM de Motocross representa la carrera todo terreno más dinámica y exigente
+del planeta. El desafío por la corona mundial de Motocross exige un alto nivel de control, y en este espacio te mostramos cada detalle.2018</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220201100000 -0500" stop="20220201133000 -0500">
+<title lang="es">NASCAR Cup Series</title>
+<desc lang="es">Carrera Daytona 500 desde Daytona International Speedway, Daytona Beach, Florida, Estados Unidos. Daytona 500 T0-E02142021
+2021/USA</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220201133000 -0500" stop="20220201140000 -0500">
+<title lang="es">Rally On Board</title>
+<desc lang="es">Programa semanal emitido por Fox Sports que hace la cobertura detrás de escena del Rally on board
+mundial con entrevistas, imágenes y más contenidos exclusivos de las carreras. Programa emitido desde distintos países, Grecia, Finlandia, Noruega, Suecia, etc.USA</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220201140000 -0500" stop="20220201150000 -0500">
+<title lang="es">Porsche SuperCup - Season Review</title>
+<desc lang="es">2021</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220201150000 -0500" stop="20220201160000 -0500">
+<title lang="es">W Series</title>
+<desc lang="es">Spielberg - Estiria T0-E0
+2018</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220201160000 -0500" stop="20220201170000 -0500">
+<title lang="es">W Series</title>
+<desc lang="es">Campeonato de automovilismo disputado exclusivamente por mujeres, teniendo su inicio en 2019 Spielberg, Austria T0-E0
+ El chasis a utilizar será el Tatuus T-318 de Fórmula 3 y su primera temporada tiene un cupo de 18 pilotos.2021</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220201170000 -0500" stop="20220201173000 -0500">
+<title lang="es">Magazine - Extreme E</title>
+<desc lang="es">T0-E18
+2022</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220201173000 -0500" stop="20220201180000 -0500">
+<title lang="es">Rally On Board</title>
+<desc lang="es">Programa semanal emitido por Fox Sports que hace la cobertura detrás de escena del Rally on board
+mundial con entrevistas, imágenes y más contenidos exclusivos de las carreras. Programa emitido desde distintos países, Grecia, Finlandia, Noruega, Suecia, etc.USA</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220201180000 -0500" stop="20220201213000 -0500">
+<title lang="es">NASCAR Cup Series</title>
+<desc lang="es">Carrera Daytona 500 desde Daytona International Speedway, Daytona Beach, Florida, Estados Unidos. Daytona 500 T0-E02142021
+2021/USA</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220201213000 -0500" stop="20220201220000 -0500">
+<title lang="es">Rally On Board</title>
+<desc lang="es">Programa semanal emitido por Fox Sports que hace la cobertura detrás de escena del Rally on board
+mundial con entrevistas, imágenes y más contenidos exclusivos de las carreras. Programa emitido desde distintos países, Grecia, Finlandia, Noruega, Suecia, etc.USA</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220201220000 -0500" stop="20220201230000 -0500">
+<title lang="es">Porsche SuperCup - Season Review</title>
+<desc lang="es">2021</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220201230000 -0500" stop="20220202000000 -0500">
+<title lang="es">W Series</title>
+<desc lang="es">Spielberg - Estiria T0-E0
+2018</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220202000000 -0500" stop="20220202010000 -0500">
+<title lang="es">W Series</title>
+<desc lang="es">Campeonato de automovilismo disputado exclusivamente por mujeres, teniendo su inicio en 2019 Spielberg, Austria T0-E0
+ El chasis a utilizar será el Tatuus T-318 de Fórmula 3 y su primera temporada tiene un cupo de 18 pilotos.2021</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220202010000 -0500" stop="20220202013000 -0500">
+<title lang="es">Magazine - Extreme E</title>
+<desc lang="es">T0-E18
+2022</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220202013000 -0500" stop="20220202020000 -0500">
+<title lang="es">Rally On Board</title>
+<desc lang="es">Programa semanal emitido por Fox Sports que hace la cobertura detrás de escena del Rally on board
+mundial con entrevistas, imágenes y más contenidos exclusivos de las carreras. Programa emitido desde distintos países, Grecia, Finlandia, Noruega, Suecia, etc.USA</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220202020000 -0500" stop="20220202053000 -0500">
+<title lang="es">NASCAR Cup Series</title>
+<desc lang="es">Carrera Daytona 500 desde Daytona International Speedway, Daytona Beach, Florida, Estados Unidos. Daytona 500 T0-E02142021
+2021/USA</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220202053000 -0500" stop="20220202060000 -0500">
+<title lang="es">Rally On Board</title>
+<desc lang="es">Programa semanal emitido por Fox Sports que hace la cobertura detrás de escena del Rally on board
+mundial con entrevistas, imágenes y más contenidos exclusivos de las carreras. Programa emitido desde distintos países, Grecia, Finlandia, Noruega, Suecia, etc.USA</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220202060000 -0500" stop="20220202070000 -0500">
+<title lang="es">Porsche SuperCup - Season Review</title>
+<desc lang="es">2021</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220202070000 -0500" stop="20220202080000 -0500">
+<title lang="es">W Series</title>
+<desc lang="es">Spielberg - Estiria T0-E0
+2018</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220202080000 -0500" stop="20220202090000 -0500">
+<title lang="es">W Series</title>
+<desc lang="es">Campeonato de automovilismo disputado exclusivamente por mujeres, teniendo su inicio en 2019 Spielberg, Austria T0-E0
+ El chasis a utilizar será el Tatuus T-318 de Fórmula 3 y su primera temporada tiene un cupo de 18 pilotos.2021</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220202090000 -0500" stop="20220202093000 -0500">
+<title lang="es">Magazine - Extreme E</title>
+<desc lang="es">T0-E18
+2022</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220202093000 -0500" stop="20220202100000 -0500">
+<title lang="es">Rally On Board</title>
+<desc lang="es">Programa semanal emitido por Fox Sports que hace la cobertura detrás de escena del Rally on board
+mundial con entrevistas, imágenes y más contenidos exclusivos de las carreras. Programa emitido desde distintos países, Grecia, Finlandia, Noruega, Suecia, etc.USA</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220202100000 -0500" stop="20220202130000 -0500">
+<title lang="es">NASCAR XFINITY Series</title>
+<desc lang="es">Carrera Beef. It&apos;s What&apos;s For Dinner. 300 at Daytona desde Daytona International Speedway Beef. It&apos;s What&apos;s For Dinner. 300 at Daytona T0-E02132021
+ Daytona Beach, Florida, Estados Unidos.2021/USA</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220202130000 -0500" stop="20220202140000 -0500">
+<title lang="es">Extreme E Season Review</title>
+<desc lang="es">Un repaso por la competición de automóviles todoterreno eléctricos.
+2022</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220202140000 -0500" stop="20220202150000 -0500">
+<title lang="es">WEC - Season Review</title>
+<desc lang="es">2021</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220202150000 -0500" stop="20220202160000 -0500">
+<title lang="es">Porsche Super Cup</title>
+<desc lang="es">Mónaco Mónaco T0-E05242015
+2015</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220202160000 -0500" stop="20220202170000 -0500">
+<title lang="es">FIM Motocross Season Review</title>
+<desc lang="es">El campeonato mundial FIM de Motocross representa la carrera todo terreno más dinámica y exigente
+del planeta. El desafío por la corona mundial de Motocross exige un alto nivel de control, y en este espacio te mostramos cada detalle.2018</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220202170000 -0500" stop="20220202180000 -0500">
+<title lang="es">Motul FIM Superbike World Championship</title>
+<desc lang="es">Lo mejor del Campeonato mundial de motociclismo de velocidad.</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220202180000 -0500" stop="20220202210000 -0500">
+<title lang="es">NASCAR XFINITY Series</title>
+<desc lang="es">Carrera Beef. It&apos;s What&apos;s For Dinner. 300 at Daytona desde Daytona International Speedway Beef. It&apos;s What&apos;s For Dinner. 300 at Daytona T0-E02132021
+ Daytona Beach, Florida, Estados Unidos.2021/USA</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220202210000 -0500" stop="20220202220000 -0500">
+<title lang="es">Extreme E Season Review</title>
+<desc lang="es">Un repaso por la competición de automóviles todoterreno eléctricos.
+2022</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220202220000 -0500" stop="20220202230000 -0500">
+<title lang="es">WEC - Season Review</title>
+<desc lang="es">2021</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220202230000 -0500" stop="20220203000000 -0500">
+<title lang="es">Porsche Super Cup</title>
+<desc lang="es">Mónaco Mónaco T0-E05242015
+2015</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220203000000 -0500" stop="20220203010000 -0500">
+<title lang="es">FIM Motocross Season Review</title>
+<desc lang="es">El campeonato mundial FIM de Motocross representa la carrera todo terreno más dinámica y exigente
+del planeta. El desafío por la corona mundial de Motocross exige un alto nivel de control, y en este espacio te mostramos cada detalle.2018</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220203010000 -0500" stop="20220203020000 -0500">
+<title lang="es">Motul FIM Superbike World Championship</title>
+<desc lang="es">Lo mejor del Campeonato mundial de motociclismo de velocidad.</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220203020000 -0500" stop="20220203050000 -0500">
+<title lang="es">NASCAR XFINITY Series</title>
+<desc lang="es">Carrera Beef. It&apos;s What&apos;s For Dinner. 300 at Daytona desde Daytona International Speedway Beef. It&apos;s What&apos;s For Dinner. 300 at Daytona T0-E02132021
+ Daytona Beach, Florida, Estados Unidos.2021/USA</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220203050000 -0500" stop="20220203060000 -0500">
+<title lang="es">Extreme E Season Review</title>
+<desc lang="es">Un repaso por la competición de automóviles todoterreno eléctricos.
+2022</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220203060000 -0500" stop="20220203070000 -0500">
+<title lang="es">WEC - Season Review</title>
+<desc lang="es">2021</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220203070000 -0500" stop="20220203080000 -0500">
+<title lang="es">Porsche Super Cup</title>
+<desc lang="es">Mónaco Mónaco T0-E05242015
+2015</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220203080000 -0500" stop="20220203090000 -0500">
+<title lang="es">FIM Motocross Season Review</title>
+<desc lang="es">El campeonato mundial FIM de Motocross representa la carrera todo terreno más dinámica y exigente
+del planeta. El desafío por la corona mundial de Motocross exige un alto nivel de control, y en este espacio te mostramos cada detalle.2018</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220203090000 -0500" stop="20220203100000 -0500">
+<title lang="es">Motul FIM Superbike World Championship</title>
+<desc lang="es">Lo mejor del Campeonato mundial de motociclismo de velocidad.</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220203100000 -0500" stop="20220203123000 -0500">
+<title lang="es">NASCAR Gander RV &amp; Outdoors Truck Series</title>
+<desc lang="es">Daytona Daytona T0-E12022021
+2020/USA</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220203123000 -0500" stop="20220203130000 -0500">
+<title lang="es">Rally On Board</title>
+<desc lang="es">Programa semanal emitido por Fox Sports que hace la cobertura detrás de escena del Rally on board
+mundial con entrevistas, imágenes y más contenidos exclusivos de las carreras. Programa emitido desde distintos países, Grecia, Finlandia, Noruega, Suecia, etc.USA</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220203130000 -0500" stop="20220203140000 -0500">
+<title lang="es">NASCAR Cup Series - Season Review</title>
+<desc lang="es">Parte 1 T0-E0
+2021</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220203140000 -0500" stop="20220203150000 -0500">
+<title lang="es">NASCAR Cup Series - Season Review</title>
+<desc lang="es">Parte 2 T0-E0
+2021</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220203150000 -0500" stop="20220203160000 -0500">
+<title lang="es">NASCAR Cup Series - Season Review</title>
+<desc lang="es">Parte 3 T0-E0
+2021</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220203160000 -0500" stop="20220203163000 -0500">
+<title lang="es">Magazine - Extreme E</title>
+<desc lang="es">T0-E18
+2022</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220203163000 -0500" stop="20220203170000 -0500">
+<title lang="es">Rally On Board</title>
+<desc lang="es">Programa semanal emitido por Fox Sports que hace la cobertura detrás de escena del Rally on board
+mundial con entrevistas, imágenes y más contenidos exclusivos de las carreras. Programa emitido desde distintos países, Grecia, Finlandia, Noruega, Suecia, etc.USA</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220203170000 -0500" stop="20220203180000 -0500">
+<title lang="es">Extreme E Season Review</title>
+<desc lang="es">Un repaso por la competición de automóviles todoterreno eléctricos.
+2022</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220203180000 -0500" stop="20220203203000 -0500">
+<title lang="es">NASCAR Gander RV &amp; Outdoors Truck Series</title>
+<desc lang="es">Daytona Daytona T0-E12022021
+2020/USA</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220203203000 -0500" stop="20220203210000 -0500">
+<title lang="es">Rally On Board</title>
+<desc lang="es">Programa semanal emitido por Fox Sports que hace la cobertura detrás de escena del Rally on board
+mundial con entrevistas, imágenes y más contenidos exclusivos de las carreras. Programa emitido desde distintos países, Grecia, Finlandia, Noruega, Suecia, etc.USA</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220203210000 -0500" stop="20220203220000 -0500">
+<title lang="es">NASCAR Cup Series - Season Review</title>
+<desc lang="es">Parte 1 T0-E0
+2021</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220203220000 -0500" stop="20220203230000 -0500">
+<title lang="es">NASCAR Cup Series - Season Review</title>
+<desc lang="es">Parte 2 T0-E0
+2021</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220203230000 -0500" stop="20220204000000 -0500">
+<title lang="es">NASCAR Cup Series - Season Review</title>
+<desc lang="es">Parte 3 T0-E0
+2021</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220204000000 -0500" stop="20220204003000 -0500">
+<title lang="es">Magazine - Extreme E</title>
+<desc lang="es">T0-E19
+2022</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220204003000 -0500" stop="20220204010000 -0500">
+<title lang="es">Rally On Board</title>
+<desc lang="es">Programa semanal emitido por Fox Sports que hace la cobertura detrás de escena del Rally on board
+mundial con entrevistas, imágenes y más contenidos exclusivos de las carreras. Programa emitido desde distintos países, Grecia, Finlandia, Noruega, Suecia, etc.USA</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220204010000 -0500" stop="20220204020000 -0500">
+<title lang="es">Extreme E Season Review</title>
+<desc lang="es">Un repaso por la competición de automóviles todoterreno eléctricos.
+2022</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220204020000 -0500" stop="20220204043000 -0500">
+<title lang="es">NASCAR Gander RV &amp; Outdoors Truck Series</title>
+<desc lang="es">Daytona Daytona T0-E12022021
+2020/USA</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220204043000 -0500" stop="20220204050000 -0500">
+<title lang="es">Rally On Board</title>
+<desc lang="es">Programa semanal emitido por Fox Sports que hace la cobertura detrás de escena del Rally on board
+mundial con entrevistas, imágenes y más contenidos exclusivos de las carreras. Programa emitido desde distintos países, Grecia, Finlandia, Noruega, Suecia, etc.USA</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220204050000 -0500" stop="20220204060000 -0500">
+<title lang="es">NASCAR Cup Series - Season Review</title>
+<desc lang="es">Parte 1 T0-E0
+2021</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220204060000 -0500" stop="20220204070000 -0500">
+<title lang="es">NASCAR Cup Series - Season Review</title>
+<desc lang="es">Parte 2 T0-E0
+2021</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220204070000 -0500" stop="20220204080000 -0500">
+<title lang="es">NASCAR Cup Series - Season Review</title>
+<desc lang="es">Parte 3 T0-E0
+2021</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220204080000 -0500" stop="20220204083000 -0500">
+<title lang="es">Magazine - Extreme E</title>
+<desc lang="es">T0-E19
+2022</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220204083000 -0500" stop="20220204090000 -0500">
+<title lang="es">Rally On Board</title>
+<desc lang="es">Programa semanal emitido por Fox Sports que hace la cobertura detrás de escena del Rally on board
+mundial con entrevistas, imágenes y más contenidos exclusivos de las carreras. Programa emitido desde distintos países, Grecia, Finlandia, Noruega, Suecia, etc.USA</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220204090000 -0500" stop="20220204100000 -0500">
+<title lang="es">Extreme E Season Review</title>
+<desc lang="es">Un repaso por la competición de automóviles todoterreno eléctricos.
+2022</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220204100000 -0500" stop="20220204110000 -0500">
+<title lang="es">Motul FIM Superbike World Championship</title>
+<desc lang="es">Campeonato mundial de motociclismo de velocidad, no te pierdas lo mejor del Motul FIM Superbike España - Motorland Aragon, Carrera 1 T0-E0
+World Championship.2021</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220204110000 -0500" stop="20220204120000 -0500">
+<title lang="es">Motul FIM Superbikes World Championship</title>
+<desc lang="es">Campeonato mundial de motociclismo de velocidad, no te pierdas lo mejor del Motul FIM Superbike España - Motorland Aragón, carrera 2 T0-E0
+World Championship.2020</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220204120000 -0500" stop="20220204130000 -0500">
+<title lang="es">Extreme E Season Review</title>
+<desc lang="es">Un repaso por la competición de automóviles todoterreno eléctricos.
+2022</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220204130000 -0500" stop="20220204133000 -0500">
+<title lang="es">Rally On Board</title>
+<desc lang="es">Programa semanal emitido por Fox Sports que hace la cobertura detrás de escena del Rally on board
+mundial con entrevistas, imágenes y más contenidos exclusivos de las carreras. Programa emitido desde distintos países, Grecia, Finlandia, Noruega, Suecia, etc.USA</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220204133000 -0500" stop="20220204140000 -0500">
+<title lang="es">Magazine - Extreme E</title>
+<desc lang="es">T0-E19
+2022</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220204140000 -0500" stop="20220204150000 -0500">
+<title lang="es">Fórmula 2 - Season Review</title>
+<desc lang="es">Un repaso por la temporada 2021 de la Fórmula 3.
+2021</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220204150000 -0500" stop="20220204160000 -0500">
+<title lang="es">Fórmula 2 - Season Review</title>
+<desc lang="es">Un repaso por la temporada 2021 de la Fórmula 3.
+2021</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220204160000 -0500" stop="20220204180000 -0500">
+<title lang="es">Extreme E</title>
+<desc lang="es">Competición de automóviles todoterreno eléctricos, en lugares extremadamente remotos del mundo, Arabia Saudita - Carrera T0-E0
+que fueron afectados por el cambio climático, en un intento de generar conciencia sobre esa problemática.2019/USA</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220204180000 -0500" stop="20220204190000 -0500">
+<title lang="es">Motul FIM Superbike World Championship</title>
+<desc lang="es">Campeonato mundial de motociclismo de velocidad, no te pierdas lo mejor del Motul FIM Superbike España - Motorland Aragon, Carrera 1 T0-E0
+World Championship.2021</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220204190000 -0500" stop="20220204200000 -0500">
+<title lang="es">Motul FIM Superbikes World Championship</title>
+<desc lang="es">Campeonato mundial de motociclismo de velocidad, no te pierdas lo mejor del Motul FIM Superbike España - Motorland Aragón, carrera 2 T0-E0
+World Championship.2020</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220204200000 -0500" stop="20220204210000 -0500">
+<title lang="es">Extreme E Season Review</title>
+<desc lang="es">Un repaso por la competición de automóviles todoterreno eléctricos.
+2022</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220204210000 -0500" stop="20220204213000 -0500">
+<title lang="es">Rally On Board</title>
+<desc lang="es">Programa semanal emitido por Fox Sports que hace la cobertura detrás de escena del Rally on board
+mundial con entrevistas, imágenes y más contenidos exclusivos de las carreras. Programa emitido desde distintos países, Grecia, Finlandia, Noruega, Suecia, etc.USA</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220204213000 -0500" stop="20220204220000 -0500">
+<title lang="es">Magazine - Extreme E</title>
+<desc lang="es">T0-E19
+2022</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220204220000 -0500" stop="20220204230000 -0500">
+<title lang="es">Fórmula 2 - Season Review</title>
+<desc lang="es">Un repaso por la temporada 2021 de la Fórmula 3.
+2021</desc>
+</programme>
+<programme channel="3BA40002.4EBDE3DBFAA6B19E.01C8" start="20220204230000 -0500" stop="20220205000000 -0500">
+<title lang="es">Fórmula 2 - Season Review</title>
+<desc lang="es">Un repaso por la temporada 2021 de la Fórmula 3.
+2021</desc>
 </programme>
 <programme channel="3BA40002.E892FF87E3383FD3.0041" start="20220131010000 -0500" stop="20220131030000 -0500">
 <title lang="es">Liga Profesional 2021</title>
