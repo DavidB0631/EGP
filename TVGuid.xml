@@ -1,6 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 
+<channel id="TVN">
+<display-name lang="en">TVN</display-name>
+</channel>
 <tv generator-info-name="ProgDVB">
 <channel id="3BA40002.6F12088A429B7A30.0034">
 <display-name lang="en">Zona Latina</display-name>
@@ -224,6 +227,110 @@
 <channel id="3BA40002.A338635187D64D91.027E">
 <display-name lang="en">Enlace</display-name>
 </channel>
+
+<programme channel="TVN" start="20220131000000 -0500" stop="20220131020000 -0500">
+<title lang="es">TVN</title>
+<desc lang="es">Encuentre las últimas noticias de Panamá y el mundo. Noticias, deportes, contenido exclusivo y entretenimiento.</desc>
+<programme channel="TVN" start="20220131020000 -0500" stop="20220131040000 -0500">
+<title lang="es">TVN</title>
+<desc lang="es">Encuentre las últimas noticias de Panamá y el mundo. Noticias, deportes, contenido exclusivo y entretenimiento.</desc>
+<programme channel="TVN" start="20220131040000 -0500" stop="20220131050000 -0500">
+<title lang="es">TVN</title>
+<desc lang="es">Encuentre las últimas noticias de Panamá y el mundo. Noticias, deportes, contenido exclusivo y entretenimiento.</desc>
+<programme channel="TVN" start="20220131040000 -0500" stop="20220131060000 -0500">
+<title lang="es">Zuleyha</title>
+<desc lang="es">La telenovela está protagonizada por Hilal Altinbilek, Ugur Günes Murat Ünalmis y Vahide Perçin y narra la historia de amor de Yilmaz, un hombre que está dispuesto a matar y morir para defender a su pareja, y Züleyha, una mujer que es capaz de abandonar todo para salvar la vida de su enamorado.</desc>
+<programme channel="TVN" start="20220131060000 -0500" stop="20220131080000 -0500">
+<title lang="es">Noticiero AM</title>
+<desc lang="es">Encuentre las últimas noticias de Panamá y el mundo. Noticias, deportes, contenido exclusivo y entretenimiento.</desc>
+<programme channel="TVN" start="20220131080000 -0500" stop="20220131110000 -0500">
+<title lang="es">Jelou!</title>
+<desc lang="es">Jelou es un programa revista con expertos en los temas que te interesan. Seremos #LoPrimeroEnTuVida con contenido de variedad y entretenimiento.</desc>
+<programme channel="TVN" start="20220131110000 -0500" stop="20220131120000 -0500">
+<title lang="es">Suerte de vivir</title>
+<desc lang="es">En este moderno cuento de hadas que muestra cuán preciosa es la vida, Paloma es una costurera y madre de tres hijos que, después de que su examen se intercambió con el de un paciente con enfermedad terminal, cree que solo tiene seis meses de vida.</desc>
+<programme channel="TVN" start="20220131120000 -0500" stop="20220131130000 -0500">
+<title lang="es">TVN Noticias -medio día-</title>
+<desc lang="es">Encuentre las últimas noticias de Panamá y el mundo. Noticias, deportes, contenido exclusivo y entretenimiento.</desc>
+<programme channel="TVN" start="20220131130000 -0500" stop="20220131140000 -0500">
+<title lang="es">Al Rojo Vivo</title>
+<desc lang="es"> es un programa de televisión de la cadena televisiva Telemundo, de formato misceláneo. Su conductora fue la periodista María Celeste Arrarás, más conocida como María Celeste. Sustituida en ocasiones por Rodner Figueroa y Jessica Carrillo. Consiste en una variedad de informaciones que se presenta como noticias extras a nivel internacional, del espectáculo, deportes, notas curiosas, entre otras.</desc>
+<programme channel="TVN" start="20220131140000 -0500" stop="20220131150000 -0500">
+<title lang="es">Reina del Flow</title>
+<desc lang="es"> Después de pasar diecisiete años en la cárcel injustamente, una compositora talentosa busca vengarse de los hombres que la hundieron y mataron a su familia. Ganó el Emmy Internacional a mejor telenovela en 2019.</desc>
+<programme channel="Caso Cerrado" start="20220131150000 -0500" stop="20220131163000 -0500">
+<title lang="es">Caso Cerrado</title>
+<desc lang="es"> Programa de @Telemundo con la Dra. Ana Maria Polo. #CasoCerrado</desc>
+<programme channel="Pasa Palabra" start="20220131163000 -0500" stop="20220131180000 -0500">
+<title lang="es">Pasa Palabra</title>
+<desc lang="es"> El formato que ha roto todos los records de audiencia en Chile, Uruguay, Francia, Italia, Argentina, España, Turquía, Reino Unido y Portugal llega a Panamá</desc>
+<programme channel="TVN" start="20220131180000 -0500" stop="20220131200000 -0500">
+<title lang="es">Noticiero estelar</title>
+<desc lang="es">Encuentre las últimas noticias de Panamá y el mundo. Noticias, deportes, contenido exclusivo y entretenimiento.</desc>
+<programme channel="TVN" start="20220131200000 -0500" stop="20220132100000 -0500">
+<title lang="es">Fruto prohíbido</title>
+<desc lang="es">La historia cuenta como, la riqueza, los negocios y el poder, pueden transformar la vida de las personas de acuerdo a sus intereses. Por lo que, inicialmente, muestra a un par de hermanas, Zeynep y Yildiz, de escasos recursos económicos que únicamente se tienen la una a la otra y luchan por salir adelante. </desc>
+<programme channel="TVN" start="20220131210000 -0500" stop="20220131220000 -0500">
+<title lang="es">Zuleyha</title>
+<desc lang="es">La telenovela está protagonizada por Hilal Altinbilek, Ugur Günes Murat Ünalmis y Vahide Perçin y narra la historia de amor de Yilmaz, un hombre que está dispuesto a matar y morir para defender a su pareja, y Züleyha, una mujer que es capaz de abandonar todo para salvar la vida de su enamorado.</desc>
+<programme channel="TVN" start="20220131220000 -0500" stop="20220131230000 -0500">
+<title lang="es">Los Briceño</title>
+<desc lang="es">Los Briceño es una serie de televisión colombiana de comedia dramática producida por Juan Carlos Villamizar para Caracol Televisión y distribuida por Caracol Internacional y Netflix.</desc>
+<programme channel="Pasa Palabra" start="20220131230000 -0500" stop="20220131000000 -0500">
+<title lang="es">Pasa Palabra</title>
+<desc lang="es"> El formato que ha roto todos los records de audiencia en Chile, Uruguay, Francia, Italia, Argentina, España, Turquía, Reino Unido y Portugal llega a Panamá</desc>
+<programme channel="TVN" start="20220201000000 -0500" stop="20220201020000 -0500">
+<title lang="es">TVN</title>
+<desc lang="es">Encuentre las últimas noticias de Panamá y el mundo. Noticias, deportes, contenido exclusivo y entretenimiento.</desc>
+<programme channel="TVN" start="20220201020000 -0500" stop="20220201040000 -0500">
+<title lang="es">TVN</title>
+<desc lang="es">Encuentre las últimas noticias de Panamá y el mundo. Noticias, deportes, contenido exclusivo y entretenimiento.</desc>
+<programme channel="TVN" start="20220201040000 -0500" stop="20220201050000 -0500">
+<title lang="es">TVN</title>
+<desc lang="es">Encuentre las últimas noticias de Panamá y el mundo. Noticias, deportes, contenido exclusivo y entretenimiento.</desc>
+<programme channel="TVN" start="20220201040000 -0500" stop="20220201060000 -0500">
+<title lang="es">Zuleyha</title>
+<desc lang="es">La telenovela está protagonizada por Hilal Altinbilek, Ugur Günes Murat Ünalmis y Vahide Perçin y narra la historia de amor de Yilmaz, un hombre que está dispuesto a matar y morir para defender a su pareja, y Züleyha, una mujer que es capaz de abandonar todo para salvar la vida de su enamorado.</desc>
+<programme channel="TVN" start="20220201060000 -0500" stop="20220201080000 -0500">
+<title lang="es">Noticiero AM</title>
+<desc lang="es">Encuentre las últimas noticias de Panamá y el mundo. Noticias, deportes, contenido exclusivo y entretenimiento.</desc>
+<programme channel="TVN" start="20220201080000 -0500" stop="20220201110000 -0500">
+<title lang="es">Jelou!</title>
+<desc lang="es">Jelou es un programa revista con expertos en los temas que te interesan. Seremos #LoPrimeroEnTuVida con contenido de variedad y entretenimiento.</desc>
+<programme channel="TVN" start="20220201110000 -0500" stop="20220201120000 -0500">
+<title lang="es">Suerte de vivir</title>
+<desc lang="es">En este moderno cuento de hadas que muestra cuán preciosa es la vida, Paloma es una costurera y madre de tres hijos que, después de que su examen se intercambió con el de un paciente con enfermedad terminal, cree que solo tiene seis meses de vida.</desc>
+<programme channel="TVN" start="20220201120000 -0500" stop="20220201130000 -0500">
+<title lang="es">TVN Noticias -medio día-</title>
+<desc lang="es">Encuentre las últimas noticias de Panamá y el mundo. Noticias, deportes, contenido exclusivo y entretenimiento.</desc>
+<programme channel="TVN" start="20220201130000 -0500" stop="20220201140000 -0500">
+<title lang="es">Al Rojo Vivo</title>
+<desc lang="es"> es un programa de televisión de la cadena televisiva Telemundo, de formato misceláneo. Su conductora fue la periodista María Celeste Arrarás, más conocida como María Celeste. Sustituida en ocasiones por Rodner Figueroa y Jessica Carrillo. Consiste en una variedad de informaciones que se presenta como noticias extras a nivel internacional, del espectáculo, deportes, notas curiosas, entre otras.</desc>
+<programme channel="TVN" start="20220201140000 -0500" stop="20220201150000 -0500">
+<title lang="es">Reina del Flow</title>
+<desc lang="es"> Después de pasar diecisiete años en la cárcel injustamente, una compositora talentosa busca vengarse de los hombres que la hundieron y mataron a su familia. Ganó el Emmy Internacional a mejor telenovela en 2019.</desc>
+<programme channel="Caso Cerrado" start="20220201150000 -0500" stop="20220201163000 -0500">
+<title lang="es">Caso Cerrado</title>
+<desc lang="es"> Programa de @Telemundo con la Dra. Ana Maria Polo. #CasoCerrado</desc>
+<programme channel="Pasa Palabra" start="20220201163000 -0500" stop="20220201180000 -0500">
+<title lang="es">Pasa Palabra</title>
+<desc lang="es"> El formato que ha roto todos los records de audiencia en Chile, Uruguay, Francia, Italia, Argentina, España, Turquía, Reino Unido y Portugal llega a Panamá</desc>
+<programme channel="TVN" start="20220201180000 -0500" stop="20220201200000 -0500">
+<title lang="es">Noticiero estelar</title>
+<desc lang="es">Encuentre las últimas noticias de Panamá y el mundo. Noticias, deportes, contenido exclusivo y entretenimiento.</desc>
+<programme channel="TVN" start="20220201200000 -0500" stop="20220201210000 -0500">
+<title lang="es">Fruto prohíbido</title>
+<desc lang="es">La historia cuenta como, la riqueza, los negocios y el poder, pueden transformar la vida de las personas de acuerdo a sus intereses. Por lo que, inicialmente, muestra a un par de hermanas, Zeynep y Yildiz, de escasos recursos económicos que únicamente se tienen la una a la otra y luchan por salir adelante. </desc>
+<programme channel="TVN" start="20220201210000 -0500" stop="20220201220000 -0500">
+<title lang="es">Zuleyha</title>
+<desc lang="es">La telenovela está protagonizada por Hilal Altinbilek, Ugur Günes Murat Ünalmis y Vahide Perçin y narra la historia de amor de Yilmaz, un hombre que está dispuesto a matar y morir para defender a su pareja, y Züleyha, una mujer que es capaz de abandonar todo para salvar la vida de su enamorado.</desc>
+<programme channel="TVN" start="20220201220000 -0500" stop="20220201230000 -0500">
+<title lang="es">Los Briceño</title>
+<desc lang="es">Los Briceño es una serie de televisión colombiana de comedia dramática producida por Juan Carlos Villamizar para Caracol Televisión y distribuida por Caracol Internacional y Netflix.</desc>
+<programme channel="Pasa Palabra" start="20220201230000 -0500" stop="20220201000000 -0500">
+<title lang="es">Pasa Palabra</title>
+<desc lang="es"> El formato que ha roto todos los records de audiencia en Chile, Uruguay, Francia, Italia, Argentina, España, Turquía, Reino Unido y Portugal llega a Panamá</desc>
+
 
 <programme channel="3BA40002.6F12088A429B7A30.0034" start="20220131013000 -0500" stop="20220131030000 -0500">
 <title lang="es">El Reencuentro</title>
